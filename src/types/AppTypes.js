@@ -1,0 +1,10 @@
+export const MODIFICA_CONTATO_EMAIL = 'modifica_contato_email';
+export const ADICIONA_CONTATO_SUCESSO = 'adiciona_contato_sucesso';
+export const ADICIONA_CONTATO_ERRO = 'adiciona_contato_erro';
+export const LISTA_CONTATO_USARIO = 'lista_contato_usuario';
+export const MODIFICA_NOME_CONTATO_CONVERSA_ATUAL = 'modifca_nome_contato_conversa_atual';
+export const MODIFICA_CAMPO_MENSAGEM = 'modifica_campo_mensagem';
+export const ENVIO_MENSAGEM = 'envio_mensagem';
+export const LISTA_CONVERSA_USUARIO = 'lista_conversa_usuario';
+export const LISTA_CONVERSAS = 'lista_conversas';
+export const LOGOUT = 'logout';
